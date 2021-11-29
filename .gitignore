@@ -1,3 +1,7 @@
+#specific files from this project
+venv_rl_playground/
+*_models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
